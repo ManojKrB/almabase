@@ -1,0 +1,18 @@
+.sidebarContainer {
+  background: #2d2d2d;
+  display: flex;
+  flex-direction: column;
+  padding: 24px;
+  gap: 16px;
+  height: 100%;
+  margin-left: auto;
+  height: 100vh;
+}
+
+.header {
+  font-weight: "700";
+  font-size: 20px;
+  line-height: 27.24px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
